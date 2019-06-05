@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2019-05-14T11:56:00Z" finished-at="2019-05-14T11:56:00Z">
+    <groups>
+    </groups>
+    <test name="Testng" duration-ms="46" started-at="2019-05-14T11:56:00Z" finished-at="2019-05-14T11:56:00Z">
+      <class name="qaclickacademy.RestAssuredTest">
+        <test-method status="PASS" signature="RestAssuredLogOut()[pri:0, instance:qaclickacademy.RestAssuredTest@5a61f5df]" name="RestAssuredLogOut" duration-ms="16" started-at="2019-05-14T17:26:00Z" finished-at="2019-05-14T17:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAssuredLogOut -->
+        <test-method status="PASS" signature="RestAssuredLogin()[pri:0, instance:qaclickacademy.RestAssuredTest@5a61f5df]" name="RestAssuredLogin" duration-ms="0" started-at="2019-05-14T17:26:00Z" finished-at="2019-05-14T17:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAssuredLogin -->
+      </class> <!-- qaclickacademy.RestAssuredTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumLogOut()[pri:0, instance:qaclickacademy.SeleniumTest@7f560810]" name="SeleniumLogOut" duration-ms="1" started-at="2019-05-14T17:26:00Z" finished-at="2019-05-14T17:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumLogOut -->
+        <test-method status="PASS" signature="SeleniumLogin()[pri:0, instance:qaclickacademy.SeleniumTest@7f560810]" name="SeleniumLogin" duration-ms="1" started-at="2019-05-14T17:26:00Z" finished-at="2019-05-14T17:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumLogin -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Testng -->
+  </suite> <!-- Suite -->
+</testng-results>
